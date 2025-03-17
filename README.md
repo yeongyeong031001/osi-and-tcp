@@ -1,1 +1,1 @@
-# [![image](https://github.com/user-attachments/assets/b6e2d77f-16ea-4e51-aac3-91f4a7a7d050)](https://github.com/yeongyeong031001/osi-and-tcp/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-14%20123121.png)
+# [![image](https://github.com/yeongyeong031001/osi-and-tcp/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-14%20123121.png)
